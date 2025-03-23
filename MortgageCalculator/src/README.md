@@ -25,7 +25,7 @@ A simple Java Swing application that calculates mortgage payments based on user 
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 ### Prerequisite:
 - Java JDK (8 or later)
